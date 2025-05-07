@@ -1,0 +1,4 @@
+flask
+requests
+paypalrestsdk
+python-telegram-bot
